@@ -1,5 +1,6 @@
-# TypeScript React Workshop
+# VSCode + TypeScript + React Workshop
 
+<img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/code.png" width="200"/>
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/ts.png" width="200"/>
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/redux.png" width="200"/>
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/react.png" width="200"/>
