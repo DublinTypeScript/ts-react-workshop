@@ -251,6 +251,25 @@ Now we are going to split the previous component into multiple components that c
 
 We are going to rename the `hello.tsx` file and change it for `counter_page.tsx`.
 
+You will also need to update the `tsconfig.json` file:
+
+```js
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react"
+    },
+    "files": [
+        "./typings/index.d.ts",
+        "./src/index.tsx"
+    ]
+}
+```
+
 ```ts
 import * as React from "react";
 import { Btn } from "./btn";
