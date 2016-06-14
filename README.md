@@ -1,27 +1,24 @@
-# ts-react-workshop
-A react + redux + typescript workshop
+# TypeScript React Workshop
 
 ![TS](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/ts.png)
 ![REDUX](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/redux.png)
 ![REACT](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/react.png)
 
-This is a self-learning tutorial. 
-
-We have selected some of the best resources out there to ensure that you will have no problems during this workshop.
+This is a self-learning tutorial. We have selected some of the best resources out there to ensure that you will have no problems during this workshop.
 
 If you have any questions during the workshop feel free to ask for our help!
 
 If you want to continue learning at home you will be able to [ask questions on github](https://github.com/DublinTypeScript/ts-react-workshop/issues).
 
-# Seetting up your environment
+# Setting up your environment
 You will need to download and install:
 - [Node.js](https://nodejs.org/en/download/)
 - [VS Code](https://code.visualstudio.com/Download)
 
-We recommned to follow [the official React & Webpack guide](http://www.typescriptlang.org/docs/handbook/react-&-webpack.html) from the TypeScript website.
+We recommend following [the official React & Webpack guide](http://www.typescriptlang.org/docs/handbook/react-&-webpack.html) from the TypeScript website.
 
 # Being more productive with the Webpack devserver
-Everytime we change something in one if our TypeScript files we need to run the webpack command:
+Every time we change something in one if our TypeScript files we need to run the webpack command:
 
 ```
 $ webpack
@@ -69,9 +66,9 @@ return <h1>Hello from <span style={{color: "red"}}>{this.props.compiler}</span> 
 Save the changes and you should see the web browser refreshing automatically.
 
 # Learning TypeScript
-Once more we recommend to take a look to [the official typescript handbook](http://www.typescriptlang.org/docs/handbook/basic-types.html).
+Once more we recommend taking a look to [the official typescript handbook](http://www.typescriptlang.org/docs/handbook/basic-types.html).
 
-The handbook contains 22 pages that will provide you with everything you need to be familiar with TypeScript:
+The handbook contains 22 sections that will provide you with everything you need to be familiar with TypeScript:
 
 - Basic Types
 - Variable Declarations
@@ -179,7 +176,7 @@ Now we are going to change the component once more to understand how to map data
 
 This time instead of using a numeric counter we are going to use an array and we will add the `+1` or `-1` to it.
 
-All the elements in the array will be displayed on screen using a color code:
+All the elements in the array will be displayed on screen using a colour code:
 
 - Red for `-1`
 - Green for `+1`
@@ -234,7 +231,7 @@ export class Hello extends React.Component<HelloProps, HelloState> {
 }
 ```
 
-This exmaple showcase how we can invoke functions from JSX:
+This example showcase how we can invoke functions from JSX:
 
 ```ts
 <ul>{this._renderCounter()}</ul>
@@ -248,7 +245,7 @@ And how to map data to JSX elements:
 });
 ```
 
-# Example 3
+## Example 3
 Now we are going to split the previous component into multiple components that can be re-used.
 
 We are going to rename the `hello.tsx` file and change it for `counter_page.tsx`.
@@ -368,7 +365,7 @@ One interestingn thing about this component is that the list of items is not a p
 
 Dumb components are important because they are usually easier to re-use than smart components.
 
-Redux is a library that focus on this concept to help us to develop betetr React applications.
+Redux is a library that focuses on this concept to help us to develop better React applications.
 
 # What to learn next?
 We recommend to do the following before learning Redux:
