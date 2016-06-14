@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/ts.png" width="200"/>
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/redux.png" width="200"/>
-<img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/react.png" width="250"/>
+<img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/react.png" width="200"/>
 
 This is a self-learning tutorial. We have selected some of the best resources out there to ensure that you will have no problems during this workshop.
 
