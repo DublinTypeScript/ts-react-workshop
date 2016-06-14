@@ -16,10 +16,10 @@ You will need to download and install:
 - [Node.js](https://nodejs.org/en/download/)
 - [VS Code](https://code.visualstudio.com/Download)
 
-We recommend following [the official React & Webpack guide](http://www.typescriptlang.org/docs/handbook/react-&-webpack.html) from the TypeScript website.
+Then follow [the official React & Webpack guide](http://www.typescriptlang.org/docs/handbook/react-&-webpack.html) from the TypeScript website.
 
 # Being more productive with the Webpack devserver
-Every time we change something in one if our TypeScript files we need to run the webpack command:
+We have configured webpack but every time we change something in one if our TypeScript files we need to run the webpack command:
 
 ```
 $ webpack
