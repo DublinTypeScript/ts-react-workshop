@@ -21,8 +21,7 @@
   "homepage": "https://github.com/DublinTypeScript/ts-react-workshop#readme",
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0",
-    "redux-bootstrap": "^1.0.0-beta.4"
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "source-map-loader": "^0.1.5",

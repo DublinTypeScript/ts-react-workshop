@@ -1,9 +1,9 @@
 # ts-react-workshop
 A react + typescript workshop
 
-![TS]()
-![REDUX]()
-![REACT]()
+![TS](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/ts.png)
+![REDUX](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/redux.png)
+![REACT](https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/react.png)
 
 # Seetting up your environment 
 You will need to download and install:
