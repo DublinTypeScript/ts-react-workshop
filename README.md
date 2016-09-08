@@ -1,3 +1,5 @@
+![](https://a248.e.akamai.net/secure.meetupstatic.com/photos/theme_head/b/6/1/b/full_6826619.jpeg)
+
 # VSCode + TypeScript + React Workshop
 
 <img src="https://raw.githubusercontent.com/DublinTypeScript/ts-react-workshop/master/media/code.png" width="200"/>
